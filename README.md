@@ -44,6 +44,26 @@ Additionally, we enhanced our recommendation system by incorporating transfer le
 
 We observed that certain months, such as June, July, November, and January, tend to be more popular for movie releases. Additionally, we found that specific genres, such as Adventure, Animation, and Science Fiction, have higher average popularity scores. Based on these findings, we suggest that movie production companies consider releasing movies during these popular months and explore collaborations within these high-performing genres to maximize their chances of success.
 
+
+
+### Next Steps
+Gather More Recent Data: Update the dataset with recent movies and TV shows for up-to-date analysis and predictions.
+Collaborate with Influencers and Test New Marketing Strategies: Partner with influencers to inclrease movie awareness and engagement, and we will  test innovative marketing strategies to attract a wider audience.
+Compare Movie and TV Show Popularity: Analyze the popularity trends of movies and TV shows to uncover valuable insights for targeted content production and marketing.
+
+
+For More Information
+
+See the full analysis in the Jupyter Notebook, [EDA Part_1](URL), [Modeling Movie Popularity Part_2](URL),[Recommendation System](URL) or review this [EDA Presentation](URL)
+
 ### Repository Navigation
 
-
+Repository Structure
+├── Images
+├── zipped_data
+├──.gitignore
+├── Movie_Data_Analysis.ipynb
+├── README.md
+├── notebook.pdf
+├── presentation.pdf
+└── requirements.txt
