@@ -59,9 +59,13 @@ See the full analysis in the Jupyter Notebook, [EDA Part_1](URL), [Modeling Movi
 ### Repository Navigation
 
 ├── README.md
+
 ├── Movie_Popularity_Predictor(EDA)(Part_1).ipynb
+
 ├── Movie_Popularity_Predictor(EDA)(Part_1).PDF
+
 ├── Movie_Popularity_Predictor_(Part_2).ipynb
+
 ├──  Movie_Popularity_Predictor_(Part_2).PDF
 ├── Recommendation System(Part_3).ipynb
 ├── Recommendation System(Part_3).PDF
