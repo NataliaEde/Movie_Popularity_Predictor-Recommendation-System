@@ -13,6 +13,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 During our exploratory data analysis, we gained insights into the relationships between these features and movie popularity. For instance, we looked into  interesting patterns in the genre and release month of movies, as shown in the genre and month graphs.
 
+By analyzing patterns in genres and release months, we gained valuable knowledge that can guide decisions in movie production and selection for platforms like Spectrum.
 
 ![Genres](https://github.com/NataliaEde/Movie_Popularity_Predictor-Recommendation-System/assets/44559346/cb349067-b872-4b3a-90e8-388a9912797d)
 
