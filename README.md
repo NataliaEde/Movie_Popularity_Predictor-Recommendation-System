@@ -5,8 +5,8 @@ This project aims to predict the popularity of movies and provide valuable insig
 ![READ me](https://github.com/NataliaEde/Movie_Popularity_Predictor-Recommendation-System/assets/44559346/80f93248-4a3c-4186-939f-b57647a4a75b)
 
 ### Data
+We started with two separate datasets: one containing information on movie features such as genres, languages, budget, popularity, revenue, and runtime, and the other including details on movie titles, cast, and crew. These datasets were merged to create a comprehensive dataset of 4,800 movie data points from Kaggle. This allowed us to analyze a wide range of movies and explore the relationships between different features to gain valuable insights.
 
-We worked with a comprehensive dataset of 4,800 movies, which included features such as genres, languages, budget, popularity, revenue, and runtime. We merged two datasets: one containing title, cast, and crew information, and another encompassing the remaining features.
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ### Exploratory Data Analysis
@@ -47,9 +47,12 @@ We observed that certain months, such as June, July, November, and January, tend
 
 
 ### Next Steps
-Gather More Recent Data: Update the dataset with recent movies and TV shows for up-to-date analysis and predictions.
-Collaborate with Influencers and Test New Marketing Strategies: Partner with influencers to inclrease movie awareness and engagement, and we will  test innovative marketing strategies to attract a wider audience.
-Compare Movie and TV Show Popularity: Analyze the popularity trends of movies and TV shows to uncover valuable insights for targeted content production and marketing.
+
+* Gather More Recent Data: Update the dataset with recent movies and TV shows for up-to-date analysis and predictions.
+
+* Collaborate with Influencers and Test New Marketing Strategies: Partner with influencers to inclrease movie awareness and engagement, and we will  test innovative marketing strategies to attract a wider audience.
+
+* Compare Movie and TV Show Popularity: Analyze the popularity trends of movies and TV shows to uncover valuable insights for targeted content production and marketing.
 
 
 For More Information
@@ -57,18 +60,17 @@ For More Information
 See the full analysis in the Jupyter Notebook, [EDA Part_1](URL), [Modeling Movie Popularity Part_2](URL),[Recommendation System](URL) or review this [EDA Presentation](URL)
 
 ### Repository Navigation
-
+```)
 ├── README.md
-
 ├── Movie_Popularity_Predictor(EDA)(Part_1).ipynb
-
 ├── Movie_Popularity_Predictor(EDA)(Part_1).PDF
-
 ├── Movie_Popularity_Predictor_(Part_2).ipynb
-
-├──  Movie_Popularity_Predictor_(Part_2).PDF
+├── Movie_Popularity_Predictor_(Part_2).PDF
 ├── Recommendation System(Part_3).ipynb
 ├── Recommendation System(Part_3).PDF
 ├── Images
 ├── presentation.pdf
 └── requirements.txt
+
+
+
