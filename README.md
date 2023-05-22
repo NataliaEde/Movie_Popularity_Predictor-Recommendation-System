@@ -57,7 +57,7 @@ We observed that certain months, such as June, July, November, and January, tend
 
 For More Information
 
-See the full analysis in the Jupyter Notebook, [EDA Part_1](URL), [Modeling Movie Popularity Part_2](URL),[Recommendation System](URL) or review this [EDA Presentation](URL)
+See the full analysis in the Jupyter Notebook, [EDA Part_1](https://github.com/NataliaEde/Movie_Popularity_Predictor-Recommendation-System/blob/main/Movie_Popularity_Predictor(EDA)(Part_1).ipynb), [Modeling Movie Popularity Part_2](https://github.com/NataliaEde/Movie_Popularity_Predictor-Recommendation-System/blob/main/Movie_Popularity_Predictor_(Part_2).ipynb),[Recommendation System Part_3](https://github.com/NataliaEde/Movie_Popularity_Predictor-Recommendation-System/blob/main/%20Recommendation%20System%20(Part_3).ipynb) or review this [EDA Presentation](https://github.com/NataliaEde/Movie_Popularity_Predictor-Recommendation-System/blob/main/presentation.pdf)
 
 ### Repository Navigation
 ```)
